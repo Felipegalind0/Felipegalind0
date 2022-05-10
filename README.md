@@ -25,7 +25,7 @@
 Boston Dynamics inspired spotMicro robot:
 https://youtube.com/shorts/rc_Cyl-KfOw?feature=share
 https://youtu.be/Vl6J2ljAmZk
-![Env](Gifs/test3.gif)
+![Env](Gifs/Blaze.gif)
 
 VR Photogrammetry Quest 2 App
 https://youtu.be/eQZTAWonZkg
@@ -33,12 +33,14 @@ https://youtu.be/eQZTAWonZkg
 
 Drone with custom firmware and Carbon Fiber Nylon mount carrying 360 camera.
 https://youtu.be/_vy5MKZzaGs
-![Env](Gifs/test4.gif)
+![Env](Gifs/A2S.gif)
 
 Fixed over 20 DJI Mini2's
-![Env](Gifs/test2.gif) 
+![Env](Gifs/Mini2.gif) 
 
 Worked with CyberOps activism organizations. 
+
+And Much More...
 <!---
 Felipegalind0/Felipegalind0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
