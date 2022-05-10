@@ -18,21 +18,25 @@
 
 -👾 Discord : FelipeGalind0#9289
 
-##### 📫 The best way to reach me is to text me on discord. 
+#### 📫 The best way to reach me is to text me on discord. 
 
 ## Some of the things I have worked on:
 
 Boston Dynamics inspired spotMicro robot:
 https://youtube.com/shorts/rc_Cyl-KfOw?feature=share
 https://youtu.be/Vl6J2ljAmZk
+![Env](Gifs/test3.gif)
 
 VR Photogrammetry Quest 2 App
 https://youtu.be/eQZTAWonZkg
+![Env](Gifs/test7.gif)
 
 Drone with custom firmware and Carbon Fiber Nylon mount carrying 360 camera.
 https://youtu.be/_vy5MKZzaGs
+![Env](Gifs/test4.gif)
 
-Fixed over 20 DJI Mini2's 
+Fixed over 20 DJI Mini2's
+![Env](Gifs/test2.gif) 
 
 Worked with CyberOps activism organizations. 
 <!---
