@@ -1,4 +1,4 @@
-#👋 Hi, I’m @Felipegalind0
+# 👋 Hi, I’m @Felipegalind0
 
 - 👀 I’m interested in Drones, Photogrammetry Applications, WebXR Development in  Babylon.js and more. 
 - 🧑‍💻 Coding is my passion. I hate working with hardware, but I guess I'm good at that too. 
@@ -13,13 +13,14 @@
 
 -🌐 Website : https://felipegalind0.github.io
 
--📧 Mail : felipht@hotmail.com(prefered) (gali070@umn.edu, felipht@stanford.edu, gali1383@marshallschool.org.)
+-📧 Mail : felipht@hotmail.com(prefered)
+(gali070@umn.edu, felipht@stanford.edu, gali1383@marshallschool.org.)
 
 -👾 Discord : FelipeGalind0#9289
 
 ##### 📫 The best way to reach me is to text me on discord. 
 
-##Some of the things I have worked on:
+## Some of the things I have worked on:
 
 Boston Dynamics inspired spotMicro robot:
 https://youtube.com/shorts/rc_Cyl-KfOw?feature=share
