@@ -54,5 +54,8 @@ You can click the Preview link to take a look at your changes.
 - ✌🏻It's not cool to exclude people because of their nationality, language, religion, politics, vaccination status or anything else. Do not be an asshole, nobody benefits from that!
 - 🙄 It's dumb to only have 2 political parties. I guess I'm a centrist. 
 - 🛠 When I break my tech I will be the one to fix it and the same should be true for you! Do not buy products you can't thinker with or fix! To hell with Apple's, John Deere's, and others' consumerism division. I own what I buy.
+- 🇺🇦 It is not cool to pick on the small guy. If you do powers you can't comprehend will be unleashed against you. 
 
 https://www.ifixit.com/Manifesto
+
+*In lulz we trust.*
