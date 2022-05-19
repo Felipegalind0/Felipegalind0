@@ -3,7 +3,7 @@
 [![](https://github-readme-stats.vercel.app/api?username=Felipegalind0&show_icons=true)](https://github.com/Felipegalind0)
 
 - 👀 I’m interested in Drones, Photogrammetry Applications, WebXR Development in  Babylon.js and more. 
-- 🧑‍💻 Coding is my passion. I hate working with hardware, but I guess I'm good at that too. 
+- 🧑‍💻 Coding is my passion. I hate working with hardware, but I guess I'm ok at that too. 
 -  🙃I’m currently living in Minneapolis, and frankly I don't like it, Duluth is better. 
 -  ⚡ Fun fact: I dropped a phone from the Golden Gate...
 -  🇨🇴 I was born in Colombia and speak fluent spanish. 
