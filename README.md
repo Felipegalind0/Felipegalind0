@@ -13,7 +13,9 @@
 - 💞️ I’m looking to collaborate on anything, please reach out to me.
 - 👊🏻 If you're like me and you rely on Open Source Hardware and Software(literally everyone in the planet), unless you have a really good excuse you shoud make your projects Open Source. 
 
--🌐 Website : https://felipegalind0.github.io
+-🌐 Website : [https://felipegalind0.github.io](https://felipegalind0.github.io)
+
+-🎨 Polycam :[https://poly.cam/@Felipegalind0](https://poly.cam/@Felipegalind0)
 
 -📧 Mail : felipht@hotmail.com(prefered)
 (gali070@umn.edu, felipht@stanford.edu, gali1383@marshallschool.org.)
