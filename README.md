@@ -7,7 +7,7 @@ Cool Open Source Projects I've worked on: \
 
 -🎨 Polycam :[poly.cam/@Felipegalind0](https://poly.cam/@Felipegalind0)
 
--📚 Github :[github.com/Felipegalind0](https://github.com/Felipegalind0) [github.com/UMN-VR](https://github.com/UMN-VR)
+-📚 Github :**[Github.com/Felipegalind0](https://github.com/Felipegalind0)** &nbsp; &nbsp; [Github.com/UMN-VR](https://github.com/UMN-VR)
 
 [![](https://github-readme-stats.vercel.app/api?username=Felipegalind0&show_icons=true)](https://github.com/Felipegalind0)
 
