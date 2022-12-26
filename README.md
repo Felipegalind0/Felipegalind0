@@ -1,5 +1,9 @@
 # 👋 Hi, I’m @Felipegalind0 a comercial drone pilot, master of photogrammetry & VR who builds & codes Open Source robots. 
 
+-🌐 Website : [https://felipegalind0.github.io](https://felipegalind0.github.io)
+
+-🎨 Polycam :[https://poly.cam/@Felipegalind0](https://poly.cam/@Felipegalind0)
+
 [![](https://github-readme-stats.vercel.app/api?username=Felipegalind0&show_icons=true)](https://github.com/Felipegalind0)
 
 Cool Open Source Projects I've worked on: \
@@ -17,9 +21,6 @@ Cool Open Source Projects I've worked on: \
 - 👊🏻 If you're like me and you rely on Open Source Hardware and Software(literally everyone in the planet), you shoud make your projects Open Source. 
 - 📖 I was working in a CS degree at UMN but they are broke and will only let me study for sticker price so probably switching schools. 
 
--🌐 Website : [https://felipegalind0.github.io](https://felipegalind0.github.io)
-
--🎨 Polycam :[https://poly.cam/@Felipegalind0](https://poly.cam/@Felipegalind0)
 
 -📧 Mail : felipegalind0@outlook.com(prefered)
 (gali070@umn.edu, felipht@stanford.edu, gali1383@marshallschool.org.)
