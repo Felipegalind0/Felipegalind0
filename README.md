@@ -12,7 +12,7 @@ Cool Open Source Projects I've worked on: \
 - 👀 I’m interested in Drones, Photogrammetry Applications, 360 videography, WebXR Development in Babylon.js, Unity, ROS, Python, SwiftUI, cpp, Inverse Kinematics & more. 
 -  🧑‍💻 Coding is my passion. I hate working with hardware, but I guess I'm ok at that too. 
 -  🙃I’m currently living in Minneapolis, and frankly I don't like it, Duluth is better. 
--  ⚡ Fun fact: I dropped a phone from the Golden Gate...
+-  ⚡ Fun fact: I dropped a phone from the Golden Gate, sometimes I'm not the brightest :/
 -  🇨🇴 I was born in Colombia and speak fluent spanish. 
 -  🇺🇸 I live in the states so I speak English, duh
 -  🇩🇪 My sister was learning French, I wanted to learn a third language to match her, and I met this cute girl who spoke german so i decided I was going to learn german and I did.(Sort of) 
