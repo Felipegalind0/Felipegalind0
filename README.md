@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Felipegalind0
+# 👋 Hi, I’m @Felipegalind0 a comercial drone pilot, master of photogrammetry & VR who builds & codes Open Source robots. 
 
 [![](https://github-readme-stats.vercel.app/api?username=Felipegalind0&show_icons=true)](https://github.com/Felipegalind0)
 
@@ -14,18 +14,19 @@ Cool Open Source Projects I've worked on: \
 -  🇩🇪 My sister was learning French, I wanted to learn a third language to match her, and I met this cute girl who spoke german so i decided I was going to learn german and I did.(Sort of) 
 - 🧸 I'm proud of who I am, what I have built, and what I am building.
 - 💞️ I’m looking to collaborate on anything, please reach out to me.
-- 👊🏻 If you're like me and you rely on Open Source Hardware and Software(literally everyone in the planet), unless you have a really good excuse you shoud make your projects Open Source. 
+- 👊🏻 If you're like me and you rely on Open Source Hardware and Software(literally everyone in the planet), you shoud make your projects Open Source. 
+- 📖 I was working in a CS degree at UMN but they are broke and will only let me study for sticker price so probably switching schools. 
 
 -🌐 Website : [https://felipegalind0.github.io](https://felipegalind0.github.io)
 
 -🎨 Polycam :[https://poly.cam/@Felipegalind0](https://poly.cam/@Felipegalind0)
 
--📧 Mail : felipht@hotmail.com(prefered)
+-📧 Mail : felipegalind0@outlook.com(prefered)
 (gali070@umn.edu, felipht@stanford.edu, gali1383@marshallschool.org.)
 
 -👾 Discord : FelipeGalind0#9289
 
-#### 📫 The best way to reach me is to text me on discord. 
+#### 📫 The best way to reach me is to send me an email. 
 
 ## Some of the things I have worked on:
 
