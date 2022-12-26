@@ -22,7 +22,7 @@ Cool Open Source Projects I've worked on: \
 - 📖 I was working in a CS degree at UMN but they are broke and will only let me study for sticker price so probably switching schools. 
 
 
--📧 Mail : felipegalind0@outlook.com(prefered)
+-📧 Mail : felipegalind0@outlook.com(prefered) \
 (gali070@umn.edu, felipht@stanford.edu, gali1383@marshallschool.org.)
 
 -👾 Discord : FelipeGalind0#9289
