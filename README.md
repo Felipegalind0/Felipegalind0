@@ -5,7 +5,9 @@ Cool Open Source Projects I've worked on: \
 
 -🌐 Website : **[felipegalind0.github.io](https://felipegalind0.github.io)** &nbsp; &nbsp; [umn-vr.github.io](https://umn-vr.github.io) &nbsp; &nbsp; [goldy.dog](https://goldy.dog)
 
--🎨 Polycam :[https://poly.cam/@Felipegalind0](https://poly.cam/@Felipegalind0)
+-🎨 Polycam :[poly.cam/@Felipegalind0](https://poly.cam/@Felipegalind0)
+
+-📚 Github :[github.com/Felipegalind0](https://github.com/Felipegalind0) [github.com/UMN-VR](https://github.com/UMN-VR])
 
 [![](https://github-readme-stats.vercel.app/api?username=Felipegalind0&show_icons=true)](https://github.com/Felipegalind0)
 
