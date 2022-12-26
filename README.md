@@ -1,13 +1,13 @@
 # 👋 Hi, I’m @Felipegalind0 a comercial drone pilot, master of photogrammetry & VR who builds & codes Open Source robots. 
 
+Cool Open Source Projects I've worked on: \
+[GoldyDogV7](https://github.com/umn-vr/goldydogv7)   [RONALD360](https://github.com/Felipegalind0/RONALD360)   [Insta360-Drone-Mount](https://github.com/Felipegalind0/Insta360-Drone-Mount)   [Quest-2-App](https://github.com/UMN-VR/UMN-VR-Quest-2-App)
+
 -🌐 Website : [https://felipegalind0.github.io](https://felipegalind0.github.io)
 
 -🎨 Polycam :[https://poly.cam/@Felipegalind0](https://poly.cam/@Felipegalind0)
 
 [![](https://github-readme-stats.vercel.app/api?username=Felipegalind0&show_icons=true)](https://github.com/Felipegalind0)
-
-Cool Open Source Projects I've worked on: \
-[GoldyDogV7](https://github.com/umn-vr/goldydogv7)   [RONALD360](https://github.com/Felipegalind0/RONALD360)   [Insta360-Drone-Mount](https://github.com/Felipegalind0/Insta360-Drone-Mount)   [Quest-2-App](https://github.com/UMN-VR/UMN-VR-Quest-2-App)
 
 - 👀 I’m interested in Drones, Photogrammetry Applications, WebXR Development in  Babylon.js and more. 
 - 🧑‍💻 Coding is my passion. I hate working with hardware, but I guess I'm ok at that too. 
@@ -28,6 +28,9 @@ Cool Open Source Projects I've worked on: \
 -👾 Discord : FelipeGalind0#9289
 
 #### 📫 The best way to reach me is to send me an email. 
+
+I've been working on a CS degree at UMN for the past two years, I went to Marshall School & Stanford Summer Session 2019. I’m interested in Drones, Photogrammetry, WebXR Development in Babylon.js and VR Develoment in general. I designed my own [Robot Dog](https://github.com/UMN-VR/GoldyDogV7), and made a hobby of CADing [360 camera attachments for a Drone](https://github.com/Felipegalind0/Insta360-Drone-Mount), an [Omnidirectional Robot](https://github.com/Felipegalind0/RONALD360), among other things. I'm an early adopter of imersive tech, ever since I got my Gear VR I always fly with a VR headset and Beat Saber keeps me in shape. Looking to use my part 107 licence for more productive stuff so [send me an email](mailto:felipegalind0@outlook.com) if you want to work with me! If you're an admissions officer plz [poach me](mailto:felipegalind0@outlook.com) I can't aford UMN :( Looking for a Job at a company that aligns with my values and chalenges me to grow my skills, [send me an email](mailto:felipegalind0@outlook.com).
+
 
 ## Some of the things I have worked on:
 
