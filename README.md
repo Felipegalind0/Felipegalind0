@@ -9,6 +9,7 @@ Cool Open Source Projects I've worked on: \
 
 -📚 Github :**[Github.com/Felipegalind0](https://github.com/Felipegalind0)** &nbsp; &nbsp; [Github.com/UMN-VR](https://github.com/UMN-VR)
 
+-🎦 Youtube : [youtube.com/@Felipegalind0](https://youtube.com/@Felipegalind0) [youtube.com/@UMNVR](https://youtube.com/@UMNVR)
 [![](https://github-readme-stats.vercel.app/api?username=Felipegalind0&show_icons=true)](https://github.com/Felipegalind0)
 
 - 👀 I’m interested in Drones, Photogrammetry Applications, 360 videography, WebXR Development in Babylon.js, Unity, ROS, Python, SwiftUI, cpp, Inverse Kinematics & more. 
