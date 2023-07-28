@@ -11,7 +11,7 @@ Cool Open Source Projects I've worked on: \
 
 -🎦 Youtube : [**youtube.com/@Felipegalind0**](https://youtube.com/@Felipegalind0) &nbsp; &nbsp; [youtube.com/@UMNVR](https://youtube.com/@UMNVR)
 
-[![](https://github-readme-stats.sigma-five.vercel.app/api?username=Felipegalind0&show_icons=true)](https://github.com/Felipegalind0)
+[![](https://github-readme-stats-sigma-five.vercel.app/api?username=Felipegalind0&show_icons=true)](https://github.com/Felipegalind0)
 
 - 👀 I’m interested in Drones, Photogrammetry Applications, 360 videography, WebXR Development in Babylon.js, Unity, ROS, Python, SwiftUI, cpp, Inverse Kinematics & more. 
 -  🧑‍💻 Coding is my passion. I hate working with hardware, but I guess I'm ok at that too. 
