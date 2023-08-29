@@ -9,6 +9,8 @@ Cool Open Source Projects I've worked on: \
 
 -📚 Github :**[github.com/Felipegalind0](https://github.com/Felipegalind0)** &nbsp; &nbsp; [github.com/UMN-VR](https://github.com/UMN-VR)
 
+-🤗 HuggingFace : [https://huggingface.co/Felipegalind0](https://huggingface.co/Felipegalind0)
+
 -🎦 Youtube : [**youtube.com/@Felipegalind0**](https://youtube.com/@Felipegalind0) &nbsp; &nbsp; [youtube.com/@UMNVR](https://youtube.com/@UMNVR)
 
 [![](https://github-readme-stats-sigma-five.vercel.app/api?username=Felipegalind0&show_icons=true)](https://github.com/Felipegalind0)
