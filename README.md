@@ -15,6 +15,9 @@ Cool Open Source Projects I've worked on: \
 
 [![](https://github-readme-stats-sigma-five.vercel.app/api?username=Felipegalind0&show_icons=true)](https://github.com/Felipegalind0)
 
+
+[**Open Hardware ESP32**]([https://youtube.com/@Felipegalind0](https://github.com/Felipegalind0/Open-Hardware-ESP32))
+
 - 👀 I’m interested in Drones, Photogrammetry Applications, 360 videography, WebXR Development in Babylon.js, Unity, ROS, Python, SwiftUI, cpp, Inverse Kinematics & more. 
 -  🧑‍💻 Coding is my passion. I hate working with hardware, but I guess I'm ok at that too. 
 -  🙃I’m currently living in Minneapolis, and frankly I don't like it, Duluth is better. 
